@@ -20,7 +20,7 @@
       <th scope="col">FECHA</th>
       <th scope="col">DIRECCION</th>
       <th scope="col">TELEFONO</th>
-       <th scope="col">TELEFONO</th>
+       <th scope="col"></th>
       <th scope="col"></th>
       <th scope="col"></th>
     </tr>

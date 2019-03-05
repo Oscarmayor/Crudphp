@@ -53,11 +53,11 @@
 		    </div>
 		  </div>
 		  <div class="form-group">
-		    <label for="inputAddress">EMAIL</label>
+		    <label for="inputAddress">EMAIL:</label>
 		    <input type="email" class="form-control" name="correo" id="correo" placeholder="@...">
 		  </div>
 		  <div class="form-group">
-		    <label for="inputAddress2">DIRECCION</label>
+		    <label for="inputAddress2">DIRECCION:</label>
 		    <textarea type="text" class="form-control" id="direccion" name="direccion" placeholder="Apartment, studio, or floor"></textarea>
 		  </div>
 		   <div class="form-group">
