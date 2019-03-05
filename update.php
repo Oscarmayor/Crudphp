@@ -66,7 +66,7 @@
 		    </div>
 		  </div>
 		  <div class="form-group">
-		    <label for="inputAddress">EMAIL:</label>
+		    <label for="inputAddress">EMAIL</label>
 		    <input type="email" class="form-control" name="correo" id="correo" placeholder="@..." value="<?php echo $res->correo; ?>">
 		  </div>
 		  <div class="form-group">

@@ -53,7 +53,7 @@
 		    </div>
 		  </div>
 		  <div class="form-group">
-		    <label for="inputAddress">E-MAIL</label>
+		    <label for="inputAddress">EMAIL</label>
 		    <input type="email" class="form-control" name="correo" id="correo" placeholder="@...">
 		  </div>
 		  <div class="form-group">
