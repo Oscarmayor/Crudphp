@@ -38,7 +38,7 @@
 				}
 			 ?>
 		
-	 	<h1 style="text-align: center;"><a href="index.php"><i class="fas fa-arrow-circle-left"></i></a>
+	 	<h1 style="text-align: center; text-transform: uppercase;"><a href="index.php"><i class="fas fa-arrow-circle-left"></i></a>
 		AGREGAR NUEVO USUARIO</h1>
 		<div style="width: 500px; margin: 10px 10px 10px 30%">
 		<form method="post">

@@ -58,7 +58,7 @@
       
       <td><a href="delete.php?id=<?php echo $id; ?>"><i class="far fa-trash-alt"></i></a></td>
       <td><a href="update.php?id=<?php echo $id ?>"><i class="far fa-edit"></i></a></td>
-      <td><a href="update.php?id=<?php echo $id ?>"><i class="far fa-edit"></i></a></td>
+
 
 <?php } ?>
   		
